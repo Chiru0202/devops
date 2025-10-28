@@ -97,8 +97,8 @@ HTML file:
 
 
 B1:
-docker build -t <name> .
-docker run -d --name <name> -p 8000:80 <name of image>:latest
+docker build -t <image_name> .
+docker run -d --name <container_name> -p 8000:80 <name of image>:latest
 B2:
 After the above:
 docker tag <name_image> <username>/<docker_repo_name>:latest
