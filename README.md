@@ -83,7 +83,7 @@ HTML file:
   <div class="card">
     <img
       class="profile-img"
-      src=""C:\Users\Chira\Downloads\WhatsApp Image 2025-10-28 at 18.09.39_0e3d0eb9.jpg""
+      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fidiot&psig=AOvVaw0wvFcb29ZpoDp_vy38n7rN&ust=1761766920553000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND7jK7Tx5ADFQAAAAAdAAAAABAE"
       alt="Profile Picture"
     />
     <h2>Jane Doe</h2>
