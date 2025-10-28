@@ -83,7 +83,7 @@ HTML file:
   <div class="card">
     <img
       class="profile-img"
-      src="https://randomuser.me/api/portraits/women/65.jpg"
+      src=""C:\Users\Chira\Downloads\WhatsApp Image 2025-10-28 at 18.09.39_0e3d0eb9.jpg""
       alt="Profile Picture"
     />
     <h2>Jane Doe</h2>
