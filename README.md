@@ -118,6 +118,7 @@ git init
 git config --global user.name ""
 git config --global user.email ""
 git config --global --list
+git config --global --unset user.name
 git status
 git log
 git push --set--upstream 
